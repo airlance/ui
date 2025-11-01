@@ -1,2 +1,2 @@
-export * from 'components/screen-loader.tsx'
-export * from 'lib/helpers.ts'
+export * from './components/screen-loader'
+export * from './lib/helpers'
